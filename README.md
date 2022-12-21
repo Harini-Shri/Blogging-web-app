@@ -1,2 +1,2 @@
-# Blogging-web-app-
-Personal Blogging website using Flask framework
+# Blogging-Website using flask module in python
+
